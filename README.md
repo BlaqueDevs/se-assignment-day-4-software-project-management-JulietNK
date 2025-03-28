@@ -17,7 +17,7 @@ Key strategies to control costs include:
 2. Allocating resources efficiently to avoid overstaffing or under-resourcing.
 3. Regularly updating stakeholders on the budget and resource usage.
 4. Identifying potential cost overruns early and adjusting scope or timelines.
-5. Using cost estimation tools and techniques, like parametric modeling or expert judgment
+5. Using cost estimation tools and techniques, like parametric modeling or expert judgment.
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Waterfall follows a linear, step-by-step approach where each phase is completed before moving to the next, making it best for projects with well-defined requirements. In contrast, Agile is more flexible, using iterative cycles to accommodate changes and feedback throughout the project. Agile is ideal for projects where requirements may evolve, while Waterfall works better for projects with fixed scope and strict deadlines.Agile favoring flexibility and Waterfall providing structure and predictability
